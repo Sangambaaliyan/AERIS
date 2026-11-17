@@ -1,6 +1,6 @@
 # 🌿 AERIS: Air & Environmental Risk Intelligence System
 > **An Environmental Data Analytics Platform for Urban Air Quality, Hotspot Ranking, and Cumulative Atmospheric Risk Assessment**  
-> *Developed as a Semester 5 College Mini Project by a Team of Four Students.*
+> *Developed as a Semester 5 College Mini Project by a Team of Five Students.*
 
 ---
 
